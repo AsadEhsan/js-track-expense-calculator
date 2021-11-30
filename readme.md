@@ -1,1 +1,1 @@
-# expense calculator
+# js-track-expense-calculator
